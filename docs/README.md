@@ -284,3 +284,4 @@ If you have Clang `3.7` installed you might see the following warning message:
   [2015Euro LLVM Conference](http://llvm.org/devmtg/2015-04) presentations.<br/>
   **Dániel KRUPP, György ORBÁN, Gábor HORVÁTH and Bence BABATI**:<br/>
   [_Industrial Experiences with the Clang Static Analysis Toolset_](http://llvm.org/devmtg/2015-04/slides/Clang_static_analysis_toolset_final.pdf)
+  
